@@ -1,0 +1,7 @@
+﻿Harry Potter ,J.K Rowling,10,Hard Back
+MicroEconomics 101,Mike Stephenson,9,Hard Back
+Visual Analytics,Katelyn Baker,9,Hard Back
+Who's to Blame?,Tim Sawyer,6,Soft Back
+Lizzy Know's Best,Elizabeth Mcmillian,8,Soft Back
+The Bible,Kareem Jones,10,Hard Back
+All About Me,Quinton Jefferson,7,Hard Back
